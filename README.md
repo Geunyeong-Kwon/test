@@ -1,5 +1,2 @@
-# include<stdio.h>
-int main(){
-print("Hello World!")
-return 0;
-}
+#개인 colab 연습하기
+colab
